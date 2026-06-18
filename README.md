@@ -344,3 +344,7 @@ This project demonstrates how SQL can be used to:
 
 **Rahul Ghoshal**
 
+M.Sc. Data Science
+
+Aspiring Data Analyst | SQL | Power BI | Excel | Python
+
