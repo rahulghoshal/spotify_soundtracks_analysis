@@ -344,4 +344,3 @@ This project demonstrates how SQL can be used to:
 
 **Rahul Ghoshal**
 
-Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning
