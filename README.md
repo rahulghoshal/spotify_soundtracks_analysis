@@ -335,6 +335,7 @@ This project demonstrates how SQL can be used to:
 
 * PostgreSQL
 * SQL
+* MS Excel
 * GitHub
 
 ---
